@@ -44,7 +44,7 @@ opencanon-co/
 | **Compliance** | schema 정합성 자동 검사 — `canon.lock.json` 기준 |
 | **Attestation** | 커뮤니티의 의미론적 일관성 보증 (post-commit, 비차단) |
 
-집필은 opencanon.co에서. CLI 사용자는 [`@opencanon/canon`](https://www.npmjs.com/package/@opencanon/canon).
+집필은 [opencanon.co](https://opencanon.co) 에서.
 
 ---
 
@@ -115,7 +115,7 @@ opencanon-co/
 | **Compliance** | Auto schema check against `canon.lock.json` |
 | **Attestation** | Community semantic consistency vouching (post-commit, non-blocking) |
 
-Write at opencanon.co. CLI users: [`@opencanon/canon`](https://www.npmjs.com/package/@opencanon/canon).
+Write at [opencanon.co](https://opencanon.co).
 
 ---
 
@@ -173,5 +173,4 @@ Only a writer's commit changes the world.
   Compliance spec: https://opencanon.co/about
   World radiation API: GET https://opencanon.co/api/world/{owner}/{repo}
   Schema: opencanon.world.v1
-  Canon CLI: npm install -g @opencanon/canon
 -->
